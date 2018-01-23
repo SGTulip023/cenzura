@@ -1,0 +1,21 @@
+{
+    "author": "Stevan Tomasev",
+    "name": "cenzura",
+    "version": "0.1.2",
+    "description": "Cenzura odredjenih reci",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SGTulip023/cenzura.git"
+    },
+    "dependencies": {
+        "express": "*"
+    },
+    "keywords": [
+        "cenzura",
+        "reci"
+    ],
+    "engines": {
+        "node": "*"
+    }
+}
