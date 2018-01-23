@@ -1,6 +1,6 @@
 {
     "author": "Stevan Tomasev",
-    "name": "cenzura",
+    "name": "cenzura-test",
     "version": "0.1.2",
     "description": "Cenzura odredjenih reci",
     "main": "censortext",
